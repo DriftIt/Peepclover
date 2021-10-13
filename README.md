@@ -22,9 +22,7 @@ I'm currently working on my own SCPSL server.
 **Twitch**: TheUltiOne
 
 ## This site
-Made with ❤ using [GitHub Pages](https://pages.github.com)
-
-Go check it out!
+Made with ❤ using [GitHub Pages](https://pages.github.com) -- go check it out!
 
 
 _Visit the [home page](https://theultione.live)_
